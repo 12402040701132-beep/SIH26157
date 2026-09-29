@@ -1,0 +1,6 @@
+{
+  "name": "SAT-SA Supervisory Analytics Tool for SOC Assessment",
+  "description": "Offline Supervisory Analytics Tool for SOC Assessment (NCIIPC/NTRO) detecting Execution Gaps and Negative Space across Critical Sector Entities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

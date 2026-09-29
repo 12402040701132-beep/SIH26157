@@ -1,0 +1,8 @@
+entity_id,entity_name,sector,criticality,total_assets,critical_assets_count,soc_tier,baseline_daily_alerts,known_execution_gap,known_negative_space,contact_officer
+ENT-001,National Power Grid Corporation,Power & Energy,Critical Tier-1,1420,85,Internal Hybrid 24x7,320,True,True,"Chief Information Security Officer, NPGC"
+ENT-002,Apex National Bank,Banking & Financial Services,Critical Tier-1,3200,140,Managed MSSP Tier-3,580,True,False,"Head of Cyber Operations, Apex Bank"
+ENT-003,Bharat Telecom Ltd,Telecommunications,Critical Tier-1,4800,210,Internal SOC 24x7,840,False,True,"Director Cyber Defence, BTL"
+ENT-004,Metro Airport Authority,Civil Aviation,Critical Tier-1,1150,64,Co-sourced SOC,290,True,True,"Principal IT Security Architect, MAA"
+ENT-005,Eastern Port Trust,Maritime Logistics,Critical Tier-2,890,42,Third-Party SLA,180,False,True,"Port Safety & Cyber Officer, EPT"
+ENT-006,Central Metro Rail,Urban Rail Transport,Critical Tier-2,950,52,Internal SOC 16x7,210,True,False,"Signaling & Cyber Systems Head, CMR"
+ENT-007,National Highway Authority,Roads & Highways,Critical Tier-2,1600,38,Vendor Managed,240,False,False,"Toll Telematics Security Lead, NHA"
